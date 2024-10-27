@@ -52,7 +52,7 @@ Mainpage: Displays the 6 modules for the whole forum. The official landing page 
 
 ![image](https://github.com/user-attachments/assets/10ba4f74-3a85-4118-9fb7-1131849fe679)
 
-**LearningHub:** Watch videos about IoT. Simpler than YouTube! Upload videos and watch existing ones. Knowledge is power, and power is voltage divided by current!
+**LearningHub:** Watch videos about IoT. Simpler than YouTube! Knowledge is power, and power is voltage divided by current!
 
 ![image](https://github.com/user-attachments/assets/18e9ec34-749e-4755-8dce-602e773a5ea5)
 
