@@ -56,7 +56,7 @@ Mainpage: Displays the 6 modules for the whole forum. The official landing page 
 
 ![image](https://github.com/user-attachments/assets/18e9ec34-749e-4755-8dce-602e773a5ea5)
 
-**VulnerabilitiesHub:** Found a bug? Then here's your confessional booth, a booth for white-hat hackers. "Forgive me, admin, for I have stumbled upon a zero-day exploit and I do not desire to use it for harm, so take they exploit and report it, but will I get paid?"
+**VulnerabilitiesHub:** Found a loophole? Report it to keep the technology castle standing! We’ll absolve you of your hacking sins— and send you off with a snack!
 
 ![image](https://github.com/user-attachments/assets/34c64e2e-0023-4616-8290-7f78ffe48979)
 
