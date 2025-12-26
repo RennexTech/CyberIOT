@@ -48,7 +48,7 @@ Mainpage: Displays the 6 modules for the whole forum. The official landing page 
 
 ![image](https://github.com/user-attachments/assets/96e0051e-a16f-4bc2-a5aa-11c2a59de634)
 
-**IoT Marketplace:** Buy and sell gadgets. It's a tiny Amazon for IOT/tech people who want to sell their cutting-edge gadgets or do some window shopping.😄
+**IoT Marketplace:** Buy and sell gadgets. It's a tiny Amazon for IOT/tech people who want to sell their cutting-edge gadgets or do some window shopping.
 
 ![image](https://github.com/user-attachments/assets/10ba4f74-3a85-4118-9fb7-1131849fe679)
 
