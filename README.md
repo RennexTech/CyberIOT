@@ -3,7 +3,7 @@ Welcome to CyberIOT: The Hub for Tech and IOT enthusiasts!
 ============================
 ============================
 
-I will explain the project structure in folders, simplifying it for those who want to modify it.
+I will explain the project structure:
 
 accounts - Extends the Django authentication system. Login, signup and reset. Reset page isn't implemented.
 
@@ -44,29 +44,29 @@ Mainpage: Displays the 6 modules for the whole forum. The official landing page 
 
 ![image](https://github.com/user-attachments/assets/0da19965-6640-4aad-8f9f-5f443d3e31bb)
 
-**Forums:** Discuss about IoT. A mosh pit for tech nerds. Based on Django Machina, but with a unique CyberIOT twist.
+**Forums:** Discuss about IoT. Based on Django Machina, but uniquely customized for CyberIOT.
 
 ![image](https://github.com/user-attachments/assets/96e0051e-a16f-4bc2-a5aa-11c2a59de634)
 
-**IoT Marketplace:** Buy and sell gadgets. It's a tiny Amazon for IOT/tech people who want to sell their cutting-edge gadgets or do some window shopping.
+**IoT Marketplace:** Buy and sell IOT gadgets. It's a tiny Amazon for IOT/tech people.
 
 ![image](https://github.com/user-attachments/assets/10ba4f74-3a85-4118-9fb7-1131849fe679)
 
-**LearningHub:** Watch videos about IoT. Simpler than YouTube! Knowledge is power, and power is voltage divided by current!
+**LearningHub:** Watch videos about IoT. Simpler than YouTube! Knowledge is power, and power is voltage divided by current!🤔🤣
 
 ![image](https://github.com/user-attachments/assets/18e9ec34-749e-4755-8dce-602e773a5ea5)
 
-**VulnerabilitiesHub:** Found a loophole? Report it to keep the technology castle standing! We’ll absolve you of your hacking sins— and send you off with a snack!
+**VulnerabilitiesHub:** Found a loophole? Report it to keep the technology castle standing! 
 
 ![image](https://github.com/user-attachments/assets/34c64e2e-0023-4616-8290-7f78ffe48979)
 
 ![image](https://github.com/user-attachments/assets/ee7f8590-fae2-46ce-9ede-f7a5d375b13f)
 
-**Vulnerability Tracking:** Fixed IOT vulnerabilities news, part cybersecurity news, part personal blog. Read about the latest patched vulnerabilities or Bob's journey to grow the perfect digital tomato. It's a weird mix, but hey, so is IoT!
+**Vulnerability Tracking:** Fixed IOT vulnerabilities news, part cybersecurity news, partly personal blogs.
 
 ![image](https://github.com/user-attachments/assets/7bbbf659-87e9-484a-972a-120afd68d2c5)
 
-**Chat:** Search for users, chat privately, and update your profile to show off your IoT street cred. Message other users. Make friends with fellow IoT lovers. 
+**Chat:** Search for users, chat privately, and update your profile to show off your IoT street cred. 
 
 ![image](https://github.com/user-attachments/assets/4284c241-ca4f-4d27-95a8-a2152cd9047e)
 
