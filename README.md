@@ -1,6 +1,6 @@
 Welcome to CyberIOT: The Hub for Tech and IOT enthusiasts!
 
-First, Django is obviously in a newer version, this project is 2 years old, so, there might be a conflict. Deal with that. Solve it fellow.💀👊✨Let's go!
+First, Update Django to then restructure the project around the latest version👊✨Let's go!
 
 ============================
 ============================
